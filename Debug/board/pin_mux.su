@@ -1,5 +1,5 @@
-C:\Users\diego\Downloads\frdmkw41znrecord_wireless_examples_ieee_802_15_4_mwa_coordinator_bm\drivers/fsl_clock.h:580:20:CLOCK_EnableClock	24	static
-C:\Users\diego\Downloads\frdmkw41znrecord_wireless_examples_ieee_802_15_4_mwa_coordinator_bm\drivers/fsl_port.h:321:20:PORT_SetPinMux	24	static
+C:\Users\diego\Documents\MCUXpressoIDE_11.9.0_2144\redes\frdmkw41znrecord_wireless_examples_ieee_802_15_4_mwa_coordinator_bm\drivers/fsl_clock.h:580:20:CLOCK_EnableClock	24	static
+C:\Users\diego\Documents\MCUXpressoIDE_11.9.0_2144\redes\frdmkw41znrecord_wireless_examples_ieee_802_15_4_mwa_coordinator_bm\drivers/fsl_port.h:321:20:PORT_SetPinMux	24	static
 ../board/pin_mux.c:39:6:BOARD_InitPins	8	static
 ../board/pin_mux.c:62:6:BOARD_InitButtons	8	static
 ../board/pin_mux.c:94:6:BOARD_InitLEDs	8	static
