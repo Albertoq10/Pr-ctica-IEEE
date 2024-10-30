@@ -1,5 +1,5 @@
-C:\Users\diego\Downloads\frdmkw41z_wireless_examples_ieee_802_15_4_mwa_end_device_bm\drivers/fsl_clock.h:580:20:CLOCK_EnableClock	24	static
-C:\Users\diego\Downloads\frdmkw41z_wireless_examples_ieee_802_15_4_mwa_end_device_bm\drivers/fsl_adc16.h:500:24:ADC16_GetChannelConversionValue	16	static
+C:\Users\diego\Documents\MCUXpressoIDE_11.9.0_2144\redes\frdmkw41z_wireless_examples_ieee_802_15_4_mwa_end_device_bm\drivers/fsl_clock.h:580:20:CLOCK_EnableClock	24	static
+C:\Users\diego\Documents\MCUXpressoIDE_11.9.0_2144\redes\frdmkw41z_wireless_examples_ieee_802_15_4_mwa_end_device_bm\drivers/fsl_adc16.h:500:24:ADC16_GetChannelConversionValue	16	static
 ../board/board.c:171:6:hardware_init	16	static
 ../board/board.c:218:6:NMI_Handler	8	static
 ../board/board.c:225:6:BOARD_InitAdc	8	static
