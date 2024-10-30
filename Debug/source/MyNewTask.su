@@ -1,0 +1,6 @@
+../source/MyNewTask.c:20:13:myTaskTimerCallback	16	static
+../source/MyNewTask.c:26:6:LEDS_color	16	static
+../source/MyNewTask.c:70:6:My_Task	32	static
+../source/MyNewTask.c:124:6:MyTask_Init	8	static
+../source/MyNewTask.c:133:6:MyTaskTimer_Start	8	static
+../source/MyNewTask.c:139:6:MyTaskTimer_Stop	8	static
