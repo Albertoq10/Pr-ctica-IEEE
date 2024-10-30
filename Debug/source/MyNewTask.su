@@ -1,0 +1,8 @@
+../source/MyNewTask.c:27:9:GetContador	8	static
+../source/MyNewTask.c:34:13:myTaskTimerCallback	16	static
+../source/MyNewTask.c:45:6:switch_pressed	16	static
+../source/MyNewTask.c:60:6:LEDS_color	16	static
+../source/MyNewTask.c:104:6:My_Task	32	static
+../source/MyNewTask.c:156:6:MyTask_Init	8	static
+../source/MyNewTask.c:167:6:MyTaskTimer_Start	8	static
+../source/MyNewTask.c:173:6:MyTaskTimer_Stop	8	static
